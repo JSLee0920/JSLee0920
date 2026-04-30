@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Lee Jia Sheng
 
-<!--
-**JSLee0920/JSLee0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`CS Student | Software Developer`**
 
-Here are some ideas to get you started:
+## About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CS student majoring in AI, passionate about building software, solving problems and learning new things in general. 😉
+
+- I'm into full stack and AI development, as well as DevOps
+- Currently exploring Golang, Svelte, and Rust
+- Learning system design concepts, especially microservices architecture.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,python,fastapi,typescript,tailwind,react,nextjs,angular,svelte,go,postgres,redis,git,docker,neovim,pytorch,tensorflow,figma&theme=light)](https://skillicons.dev)
+
+## Let's Connect
+<a href="https://www.linkedin.com/in/jslee8260/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/JSLee0920/JSLee0920/" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+</a>
