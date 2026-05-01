@@ -16,7 +16,8 @@ I'm a CS student majoring in AI, passionate about building software, solving pro
 ## Github Stats
 ![JSLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSLee0920&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSLee0920&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSLee0920&layout=donut&theme=dracula&hide=c%23,blade)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's Connect
 <a href="https://www.linkedin.com/in/jslee8260/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
