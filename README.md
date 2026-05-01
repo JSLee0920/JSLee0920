@@ -16,7 +16,7 @@ I'm a CS student majoring in AI, passionate about building software, solving pro
 ## Github Stats
 ![Stats](./profile/stats.svg)
 
-[![Top Langs](./profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ## Let's Connect
 <a href="https://www.linkedin.com/in/jslee8260/" target="blank">
