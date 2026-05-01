@@ -14,7 +14,7 @@ I'm a CS student majoring in AI, passionate about building software, solving pro
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,python,fastapi,typescript,tailwind,react,nextjs,angular,svelte,go,postgres,redis,git,docker,linux,neovim,pytorch,tensorflow,figma&theme=light)](https://skillicons.dev)
 
 ## Github Stats
-![JSLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSLee0920&show_icons=true&theme=dracula)
+![Stats](./profile/stats.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSLee0920&layout=donut&theme=dracula&hide=c%23,blade)](https://github.com/anuraghazra/github-readme-stats)
 
