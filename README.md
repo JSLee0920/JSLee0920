@@ -4,7 +4,7 @@
 
 ## About Me 
 
-I'm a CS student majoring in AI, passionate about building software, solving problems and learning new things in general. 😉
+I'm a CS undergrad majoring in AI, passionate about building software, solving problems and learning new things in general. 😉
 
 - I'm into full stack and AI development, as well as DevOps
 - Currently exploring Golang, Svelte, and Rust
